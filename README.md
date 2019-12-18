@@ -1,14 +1,14 @@
-# Python Practise
+# My Repo for latest projects at INSAID
 
-<img src="https://raw.githubusercontent.com/Anandkumar0188/PythonPractise/master/images/5-0_finance_1366.jpg">
+## Here is the list of all projects
 
-This is my Python Repo for all my Python Practice
-> This is my first Repo
----
-- Point 1
-- Point 2
-- Point 3
----
-```
-print('Hello World')
-```
+- [Finance](https://github.com/Anandkumar0188/PythonPractise/tree/master/Finance-Project "Finance")
+- Accounts
+- Banking
+- Energy
+
+| Finance Project  | [![Finance Project](https://raw.githubusercontent.com/Anandkumar0188/PythonPractise/master/images/5-0_finance_1366.jpg "Finance Project")](https://raw.githubusercontent.com/Anandkumar0188/PythonPractise/master/images/5-0_finance_1366.jpg "Finance Project")  |
+| :------------: | :------------: |
+| [![Banking](https://raw.githubusercontent.com/Anandkumar0188/PythonPractise/master/images/5-0_finance_1366.jpg "Banking")](https://raw.githubusercontent.com/Anandkumar0188/PythonPractise/master/images/5-0_finance_1366.jpg "Banking")  |  Accounts  Project |
+| Banking  Project |  [![Energy](https://raw.githubusercontent.com/Anandkumar0188/PythonPractise/master/images/5-0_finance_1366.jpg "Energy")](https://raw.githubusercontent.com/Anandkumar0188/PythonPractise/master/images/5-0_finance_1366.jpg "Energy") |
+| [![Energy](https://raw.githubusercontent.com/Anandkumar0188/PythonPractise/master/images/5-0_finance_1366.jpg "Energy")](https://raw.githubusercontent.com/Anandkumar0188/PythonPractise/master/images/5-0_finance_1366.jpg "Energy")  | Energy  Project |
